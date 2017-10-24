@@ -14,3 +14,6 @@ npm run dev
 # 项目打包
 npm run build
 ```
+
+## 更新日志
+10.24 加入babel-preset-stage-0,在class中使用箭头函数报unexpected token错误
